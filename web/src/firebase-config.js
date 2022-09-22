@@ -1,5 +1,5 @@
 /**
- * To find your Firebase config object:
+ * To find your Firebase config object:npm install firebase
  * 
  * 1. Go to your [Project settings in the Firebase console](https://console.firebase.google.com/project/_/settings/general/)
  * 2. In the "Your apps" card, select the nickname of the app for which you need a config object.
